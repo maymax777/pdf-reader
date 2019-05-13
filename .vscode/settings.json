@@ -1,0 +1,12 @@
+{
+  "path-intellisense.mappings": {
+    "@components": "${workspaceRoot}/src/components",
+    "@navigators": "${workspaceRoot}/src/navigators",
+    "@reducers": "${workspaceRoot}/src/reducers",
+    "@res": "${workspaceRoot}/src/res",
+    "@sagas": "${workspaceRoot}/src/sagas",
+    "@services": "${workspaceRoot}/src/services",
+    "@themes": "${workspaceRoot}/src/themes",
+    "@views": "${workspaceRoot}/src/views",
+  }
+}
